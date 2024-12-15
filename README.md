@@ -60,7 +60,7 @@ Screen shots of API testing user Thunderclient-
 
 
 
-5. API to get student list- 
+5. API to delete student- 
 
 <img width="717" alt="Screenshot 2024-12-15 214207" src="https://github.com/user-attachments/assets/05068962-c20e-4766-b8c4-2480d3ba5146" />
 
